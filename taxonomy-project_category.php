@@ -42,7 +42,7 @@
 
     <div class="container">
 	    
-	    <h1 style="margin: 30px 0 0 10px!important;"><?php echo $terms; ?></h1>
+	    <h1 style="margin: 30px 0 0 10px!important;"><?php echo $term; ?></h1>
 
         <ul class="projects">
 
