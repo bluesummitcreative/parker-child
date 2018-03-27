@@ -9,9 +9,7 @@
 	
 
         <ul class="orderByIsotope text-center">
-            
-			<h1 style="margin: 30px 0 0 10px!important;"><?php the_title(); ?></h1>
-
+           
             <?php
 
             $args = array( 'hide_empty=0' );
@@ -43,6 +41,8 @@
 
 
     <div class="container">
+	    
+	    <h1 style="margin: 30px 0 0 10px!important;"><?php the_title(); ?></h1>
 
         <ul class="projects">
 
