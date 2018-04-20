@@ -13,7 +13,6 @@
 			 ?>
 
 			<?php wp_reset_postdata(); ?>
-			<?php if(get_the_content()): ?>
 			<div class="container">
 				
 				<div class="theContent hasBg <?php echo $col_md_className; ?>">
@@ -42,7 +41,6 @@
 				<?php endif; ?>
 
 			</div>
-		<?php endif; ?>
 
 
 <?php get_footer(); ?>
