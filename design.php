@@ -10,7 +10,7 @@
 			<a class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Open Modal</a>
 		</div>
 		<div class="theContent hasBg col-md-6">
-			IMAGE OF PLAN HERE
+			<img src="http://everittconstructionco.com/wp-content/uploads/2017/07/design1-500x350.png" class="img-responsive" />
 		</div>
 		
 		
@@ -30,7 +30,7 @@
         </button>
       </div>
       <div class="modal-body">
-        ...
+        <img src="http://everittconstructionco.com/wp-content/uploads/2017/07/design1-500x350.png" class="img-responsive" />
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
