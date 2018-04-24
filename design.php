@@ -5,12 +5,36 @@
 
 	<div class="container">
 
-		<div class="theContent hasBg col-md-8">
+		<div class="theContent hasBg col-md-6">
 			PLAN DESCRIPTION HERE
+			<a class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</a>
 		</div>
-		<section style="margin-top:30px" class="sidebar col-md-4">
+		<div class="theContent hasBg col-md-6">
 			IMAGE OF PLAN HERE
-		</section>
+		</div>
+		
+		
+
+		<!-- Modal -->
+		<div id="myModal" class="modal fade" role="dialog">
+		  <div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+			  <div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">&times;</button>
+				<h4 class="modal-title">Modal Header</h4>
+			  </div>
+			  <div class="modal-body">
+				<p>Some text in the modal.</p>
+			  </div>
+			  <div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			  </div>
+			</div>
+
+		  </div>
+		</div>
 
 	</div>
 
