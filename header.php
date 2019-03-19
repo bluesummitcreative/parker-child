@@ -321,7 +321,10 @@
         </header>
 
 
-
+<a href="http://lovinghaiti.org/" target="_blank"><img class="header-haiti" src="http://lovinghaiti.org/wp-content/uploads/2015/10/logo1-150x150.png" style="
+    max-width: 100px;
+    margin-top: -115px;
+    "></a>
 
 
         <div class="main_container">
