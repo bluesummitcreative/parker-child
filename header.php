@@ -318,7 +318,7 @@
 
             </div>
 		
-		<a class="header-haiti" href="http://lovinghaiti.org/" target="_blank"><img src="http://lovinghaiti.org/wp-content/uploads/2015/10/logo1-150x150.png"></a>
+		<a class="header-haiti" href="http://lovinghaiti.org/" target="_blank"><img src="https://everittconstructionco.com/wp-content/uploads/2019/03/logo1-150x150.png"></a>
 
         </header>
 
